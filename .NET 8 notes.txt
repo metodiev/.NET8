@@ -1,0 +1,42 @@
+1. Primary Constructors
+2. Collection Expressions
+3. Defaults lamda parameters
+4. Alias any type
+5. Experimental attribute
+
+.NET 8 
+1. Performance 
+2. Serilization improvements
+3. Improvements to Random
+4. Performance-focused typed
+5. Data validation improvements
+6. SHA-3 support
+7. Stream-bazed ZipFile methods
+8. Keyed dependencies
+9. Garbage collection optimizations
+10. Native AOT improvements
+11. Console support for AOT in the template
+12. Simplified build output paths
+13. Container optimizations
+14. Hot reload improvements 
+15. WPF hardware rendering over RDP
+16. OpenFolderDialog in WPF
+17. dotnet worload clean
+18. Entity Framework updates
+19. .NET MAUI updates
+20. ASP .NET Core updates
+
+Blazor -> Framework build on ASP.NET core
+1. Server-Side Rendered
+2. Stream Rendering
+3. Per-component rendering modes
+4. Auto rendering 
+5. Combined template
+6. QuickGrid
+7. Blazor Identity
+
+
+
+
+
+
